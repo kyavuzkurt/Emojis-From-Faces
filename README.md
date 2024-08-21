@@ -14,6 +14,7 @@ Run run.py
 ```
 python run.py
 ```
+Quit the program by pressing "q" on the keyboard.
 
 ## License
 This project is open-sourced under the MIT License - see the LICENSE file for details.
